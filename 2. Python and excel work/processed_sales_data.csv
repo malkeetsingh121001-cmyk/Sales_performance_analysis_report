@@ -1,0 +1,138 @@
+,Order_ID,Order_Date,Customer,City,Product,Category,Quantity,Unit_Price,Salesperson,Payment_Mode,Sales,Revenue
+0,ORD-1001,2025-01-02,Farhan Ali,Kolkata,Wireless Mouse,Accessories,2.0,750.0,Sneha Iyer,Cash,1500,1500.0
+1,ORD-1002,2025-01-07,Divya Menon,Bengaluru,Notebook Pack,Stationery,9.0,450.0,Amit Sharma,Upi,4050,4050.0
+2,ORD-1003,2025-01-07,Delta Works,Delhi,Desk Lamp,Furniture,5.0,1200.0,Sneha Iyer,Credit Card,6000,6000.0
+3,ORD-1004,2025-01-08,Aarav Traders,Hyderabad,Notebook Pack,Stationery,12.0,450.0,Rohan Mehta,Net Banking,5400,5400.0
+4,ORD-1005,2025-01-09,Divya Menon,Delhi,Wireless Mouse,Accessories,11.0,750.0,Rohan Mehta,Net Banking,8250,8250.0
+5,ORD-1006,2025-01-09,Bharat Mart,Bengaluru,Office Chair,Furniture,3.0,6800.0,Vikram Singh,Net Banking,20400,20400.0
+6,ORD-1007,2025-01-12,Jatin Arora,Bengaluru,Laptop,Electronics,8.0,52000.0,Amit Sharma,Upi,416000,416000.0
+7,ORD-1008,2025-01-12,Lakshmi Agencies,Mumbai,Printer,Electronics,1.0,9500.0,Priya Nair,Net Banking,9500,9500.0
+8,ORD-1009,2025-01-13,Meera Enterprises,Hyderabad,Smartphone,Electronics,8.0,24000.0,Amit Sharma,Net Banking,192000,192000.0
+9,ORD-1010,2025-01-15,Bharat Mart,Hyderabad,Wireless Mouse,Accessories,8.0,750.0,Vikram Singh,Credit Card,6000,6000.0
+10,ORD-1011,2025-01-17,Divya Menon,Pune,Desk Lamp,Furniture,10.0,1200.0,Sneha Iyer,Credit Card,12000,12000.0
+11,ORD-1012,2025-01-18,Lakshmi Agencies,Chennai,Office Chair,Furniture,11.0,6800.0,Rohan Mehta,Cash,74800,74800.0
+12,ORD-1013,2025-01-19,Zoya Retail,Mumbai,Notebook Pack,Stationery,4.0,450.0,Amit Sharma,Debit Card,1800,1800.0
+13,ORD-1014,2025-01-21,Isha Kapoor,Kolkata,Laptop,Electronics,4.0,52000.0,Vikram Singh,Credit Card,208000,208000.0
+14,ORD-1015,2025-01-21,Meera Enterprises,Hyderabad,Laptop,Electronics,11.0,52000.0,Amit Sharma,Credit Card,572000,572000.0
+15,ORD-1016,2025-01-23,Kiran Stores,Pune,Smartphone,Electronics,6.0,24000.0,Amit Sharma,Net Banking,144000,144000.0
+16,ORD-1017,2025-01-24,Om Supplies,Hyderabad,Office Chair,Furniture,8.0,6800.0,Priya Nair,Net Banking,54400,54400.0
+17,ORD-1018,2025-01-24,Isha Kapoor,Kolkata,Wireless Mouse,Accessories,8.0,750.0,Priya Nair,Cash,6000,6000.0
+18,ORD-1019,2025-01-24,Sunrise Offices,Delhi,Headphones,Accessories,2.0,2300.0,Sneha Iyer,Debit Card,4600,4600.0
+19,ORD-1020,2025-01-25,Farhan Ali,Chennai,Headphones,Accessories,12.0,2300.0,Amit Sharma,Upi,27600,27600.0
+20,ORD-1021,2025-01-26,Anita Desai,Hyderabad,Laptop,Electronics,6.0,52000.0,Amit Sharma,Credit Card,312000,312000.0
+21,ORD-1022,2025-01-27,Sunrise Offices,Kolkata,Office Chair,Furniture,8.0,6800.0,Priya Nair,Cash,54400,54400.0
+22,ORD-1023,2025-01-27,Om Supplies,Chennai,Wireless Mouse,Accessories,4.0,750.0,Amit Sharma,Cash,3000,3000.0
+23,ORD-1024,2025-01-29,Kiran Stores,Hyderabad,Smartphone,Electronics,9.0,24000.0,Amit Sharma,Upi,216000,216000.0
+24,ORD-1025,2025-01-29,Neha Boutique,Chennai,Office Chair,Furniture,8.0,6800.0,Sneha Iyer,Credit Card,54400,54400.0
+25,ORD-1026,2025-02-01,Kiran Stores,Mumbai,Headphones,Accessories,7.0,2300.0,Amit Sharma,Cash,16100,16100.0
+26,ORD-1027,2025-02-05,Pooja Verma,Bengaluru,Desk Lamp,Furniture,7.0,1200.0,Vikram Singh,Cash,8400,8400.0
+27,ORD-1028,2025-02-05,Sunrise Offices,Bengaluru,Wireless Mouse,Accessories,4.0,750.0,Amit Sharma,Net Banking,3000,3000.0
+28,ORD-1029,2025-02-05,Delta Works,Delhi,Laptop,Electronics,1.0,52000.0,Vikram Singh,Cash,52000,52000.0
+29,ORD-1030,2025-02-06,Kiran Stores,Kolkata,Wireless Mouse,Accessories,2.0,750.0,Priya Nair,Upi,1500,1500.0
+30,ORD-1031,2025-02-09,Tara Tech,Chennai,Smartphone,Electronics,2.0,24000.0,Vikram Singh,Credit Card,48000,48000.0
+31,ORD-1032,2025-02-09,Jatin Arora,Delhi,Laptop,Electronics,7.0,52000.0,Vikram Singh,Net Banking,364000,364000.0
+32,ORD-1033,2025-02-10,Om Supplies,Mumbai,Printer,Electronics,11.0,9500.0,Rohan Mehta,Credit Card,104500,104500.0
+33,ORD-1034,2025-02-11,Anita Desai,Bombay,Desk Lamp,Furniture,11.0,1200.0,Rohan Mehta,Cash,13200,13200.0
+34,ORD-1035,2025-02-11,Meera Enterprises,Delhi,Printer,Electronics,8.0,9500.0,Vikram Singh,Net Banking,76000,76000.0
+35,ORD-1036,2025-02-13,Meera Enterprises,Kolkata,Smartphone,Electronics,4.0,24000.0,Vikram Singh,Debit Card,96000,96000.0
+36,ORD-1037,2025-02-19,Rahul Gupta,Delhi,Wireless Mouse,Accessories,4.0,750.0,Rohan Mehta,Debit Card,3000,3000.0
+37,ORD-1038,2025-02-20,Pooja Verma,Pune,Wireless  Mouse,Accessories,9.0,750.0,Rohan Mehta,Net Banking,6750,6750.0
+38,ORD-1039,2025-02-23,Harsh Patel,Bengaluru,Laptop,Electronics,11.0,52000.0,Amit Sharma,Credit Card,572000,572000.0
+39,ORD-1040,2025-02-24,Zoya Retail,Delhi,Desk Lamp,Furniture,12.0,1200.0,Vikram Singh,Credit Card,14400,14400.0
+40,ORD-1041,2025-02-24,Lakshmi Agencies,Kolkata,Desk Lamp,Furniture,4.0,1200.0,Rohan Mehta,Credit Card,4800,4800.0
+41,ORD-1042,2025-02-25,Divya Menon,Chennai,Desk Lamp,Furniture,5.0,1200.0,Amit Sharma,Upi,6000,6000.0
+42,ORD-1043,2025-02-25,Om Supplies,Delhi,Headphones,Accessories,1.0,2300.0,Rohan Mehta,Credit Card,2300,2300.0
+43,ORD-1044,2025-02-26,Neha Boutique,Hyderabad,Desk Lamp,Furniture,8.0,1200.0,Vikram Singh,Cash,9600,9600.0
+44,ORD-1045,,Zoya Retail,Delhi,Laptop,Electronics,12.0,52000.0,Priya Nair,Net Banking,624000,624000.0
+45,ORD-1046,2025-02-26,Rahul Gupta,Kolkata,Laptop,Electronics,9.0,52000.0,Priya Nair,Cash,468000,468000.0
+46,ORD-1047,2025-02-27,Kiran Stores,Bengaluru,Wireless Mouse,Accessories,6.0,750.0,Amit Sharma,Debit Card,4500,4500.0
+47,ORD-1048,2025-02-28,Tara Tech,Hyderabad,Office Chair,Furniture,2.0,6800.0,Rohan Mehta,Net Banking,13600,13600.0
+48,ORD-1049,2025-02-28,Jatin Arora,Hyderabad,Headphones,Accessories,3.0,2300.0,Priya Nair,Credit Card,6900,6900.0
+49,ORD-1050,2025-03-01,Farhan Ali,Delhi,Wireless Mouse,Accessories,3.0,750.0,Rohan Mehta,Cash,2250,2250.0
+50,ORD-1051,2025-03-01,Om Supplies,Mumbai,Office Chair,Furniture,12.0,6800.0,Amit Sharma,Cash,81600,81600.0
+51,ORD-1052,2025-03-04,Suresh Kumar,Mumbai,Laptop,Electronics,4.0,52000.0,Sneha Iyer,Debit Card,208000,208000.0
+52,ORD-1053,2025-03-04,Tara Tech,Mumbai,Desk Lamp,Furniture,1.0,1200.0,Priya Nair,Cash,1200,1200.0
+53,ORD-1054,2025-03-05,Om Supplies,Pune,Printer,Electronics,2.0,9500.0,Rohan Mehta,Debit Card,19000,19000.0
+54,ORD-1055,2025-03-09,Harsh Patel,Bengaluru,Headphones,Accessories,1.0,2300.0,Amit Sharma,Debit Card,2300,2300.0
+55,ORD-1056,2025-03-09,Isha Kapoor,Bengaluru,Wireless Mouse,Accessories,1.0,750.0,Amit Sharma,Net Banking,750,750.0
+56,ORD-1057,2025-03-09,Rahul Gupta,Hyderabad,Headphones,Accessories,6.0,2300.0,Sneha Iyer,Net Banking,13800,13800.0
+57,ORD-1058,2025-03-10,Anita Desai,Kolkata,Smartphone,Electronics,4.0,24000.0,Rohan Mehta,Upi,96000,96000.0
+58,ORD-1059,2025-03-10,Aarav Traders,Kolkata,Headphones,Accessories,9.0,2300.0,Priya Nair,Debit Card,20700,20700.0
+59,ORD-1060,2025-03-11,Meera Enterprises,Hyderabad,Headphones,Accessories,6.0,2300.0,Vikram Singh,Debit Card,13800,13800.0
+60,ORD-1061,2025-03-12,Lakshmi Agencies,Kolkata,Smartphone,Electronics,5.0,24000.0,Sneha Iyer,Debit Card,120000,120000.0
+61,ORD-1062,2025-03-13,Lakshmi Agencies,Kolkata,Headphones,Accessories,3.0,2300.0,Priya Nair,Cash,6900,6900.0
+62,ORD-1063,2025-03-13,Neha Boutique,Kolkata,Headphones,Accessories,10.0,2300.0,Rohan Mehta,Cash,23000,23000.0
+63,ORD-1064,2025-03-13,Lakshmi Agencies,Bengaluru,Laptop,Electronics,4.0,52000.0,Sneha Iyer,Net Banking,208000,208000.0
+64,ORD-1065,2025-03-16,Pooja Verma,Chennai,Printer,Electronics,8.0,9500.0,Priya Nair,Net Banking,76000,76000.0
+65,ORD-1066,2025-03-17,Neha Boutique,Hyderabad,Notebook Pack,Stationery,2.0,450.0,Rohan Mehta,Net Banking,900,900.0
+66,ORD-1067,2025-03-22,Meera Enterprises,Pune,Printer,Electronics,4.0,9500.0,Rohan Mehta,Credit Card,38000,38000.0
+67,ORD-1068,2025-03-22,Bharat Mart,Delhi,Office Chair,Furniture,1.0,6800.0,Priya Nair,Cash,6800,6800.0
+68,ORD-1069,2025-03-25,Pooja Verma,Chennai,Smartphone,Electronics,11.0,24000.0,Vikram Singh,Credit Card,264000,264000.0
+69,ORD-1070,2025-03-28,Suresh Kumar,Chennai,Headphones,Accessories,4.0,2300.0,Priya Nair,Upi,9200,9200.0
+70,ORD-1071,2025-03-29,Farhan Ali,Mumbai,Smartphone,Electronics,3.0,24000.0,Vikram Singh,Cash,72000,72000.0
+71,ORD-1072,2025-03-30,Harsh Patel,Mumbai,Laptop,Electronics,2.0,52000.0,Sneha  Iyer,Credit Card,104000,104000.0
+72,ORD-1073,2025-04-01,Divya Menon,Kolkata,Notebook Pack,Stationery,10.0,450.0,Rohan Mehta,Cash,4500,4500.0
+73,ORD-1074,2025-04-02,Harsh Patel,Chennai,Head Phones,Accessories,3.0,2300.0,Sneha Iyer,Cash,6900,6900.0
+74,ORD-1075,2025-04-03,Tara Tech,Pune,Desk Lamp,Furniture,11.0,1200.0,Rohan Mehta,Net Banking,13200,13200.0
+75,ORD-1076,2025-04-03,Tara Tech,Bangalore,Notebook Pack,Stationery,8.0,450.0,Amit Sharma,Debit Card,3600,3600.0
+76,ORD-1077,2025-04-04,Om Supplies,Bengaluru,Office Chair,Furniture,6.0,6800.0,Vikram Singh,Upi,40800,40800.0
+77,ORD-1078,2025-04-05,Bharat Mart,Mumbai,Wireless Mouse,Accessories,7.0,750.0,Priya Nair,Credit Card,5250,5250.0
+78,ORD-1079,2025-04-07,Farhan Ali,Chennai,Smartphone,Electronics,6.0,24000.0,Vikram Singh,Cash,144000,144000.0
+79,ORD-1080,2025-04-08,Kiran Stores,Mumbai,Headphones,Accessories,7.0,2300.0,Sneha Iyer,Net Banking,16100,16100.0
+80,ORD-1081,2025-04-08,Isha Kapoor,Chennai,Laptop,Electronics,8.0,52000.0,Amit Sharma,Debit Card,416000,416000.0
+81,ORD-1082,2025-04-08,Anita Desai,Pune,Desk Lamp,Furniture,7.0,1200.0,Vikram Singh,Net Banking,8400,8400.0
+82,ORD-1083,2025-04-12,Suresh Kumar,Mumbai,Office Chair,Furniture,5.0,6800.0,Sneha Iyer,Cash,34000,34000.0
+83,ORD-1084,2025-04-13,Anita Desai,Bengaluru,Laptop,Electronics,11.0,52000.0,Sneha Iyer,Credit Card,572000,572000.0
+84,ORD-1085,2025-04-13,Bharat Mart,Kolkata,Notebook Pack,Stationery,9.0,450.0,Amit Sharma,Cash,4050,4050.0
+85,ORD-1086,2025-04-18,Meera Enterprises,Hyderabad,Laptop,Electronics,7.0,52000.0,Priya Nair,Cash,364000,364000.0
+86,ORD-1087,2025-04-19,Kiran Stores,Bengaluru,Wireless Mouse,Accessories,7.0,750.0,Rohan Mehta,Credit Card,5250,5250.0
+87,ORD-1088,2025-04-19,Delta Works,Bengaluru,Notebook Pack,Stationery,7.0,450.0,Rohan Mehta,Cash,3150,3150.0
+88,ORD-1089,2025-04-20,Meera Enterprises,Chennai,Desk Lamp,Furniture,1.0,1200.0,Vikram Singh,Upi,1200,1200.0
+89,ORD-1090,2025-04-25,Tara Tech,Hyderabad,Printer,Electronics,2.0,9500.0,Amit Sharma,Upi,19000,19000.0
+90,ORD-1091,2025-04-27,Sunrise Offices,Pune,Office Chair,Furniture,1.0,6800.0,Vikram Singh,Credit Card,6800,6800.0
+91,ORD-1092,2025-04-28,Bharat Mart,Chennai,Office Chair,Furniture,11.0,6800.0,Amit Sharma,Net Banking,74800,74800.0
+92,ORD-1093,2025-04-28,Pooja Verma,Hyderabad,Office Chair,Furniture,5.0,6800.0,Rohan Mehta,Credit Card,34000,34000.0
+93,ORD-1094,2025-04-29,Neha Boutique,Bengaluru,Smartphone,Electronics,2.0,24000.0,Vikram Singh,Upi,48000,48000.0
+94,ORD-1095,2025-05-07,Isha Kapoor,Hyderabad,Desk Lamp,Furniture,7.0,1200.0,Sneha Iyer,Credit Card,8400,8400.0
+95,ORD-1096,2025-05-08,Isha Kapoor,Hyderabad,Smartphone,Electronics,11.0,24000.0,Priya Nair,Upi,264000,264000.0
+96,ORD-1097,2025-05-10,Jatin Arora,Pune,Desk Lamp,Furniture,2.0,1200.0,Vikram Singh,Upi,2400,2400.0
+97,ORD-1098,2025-05-11,Harsh Patel,Chennai,Printer,Electronics,11.0,9500.0,Rohan Mehta,Upi,104500,104500.0
+98,ORD-1099,2025-05-17,Aarav Traders,Pune,Printer,Electronics,7.0,9500.0,Sneha Iyer,Upi,66500,66500.0
+99,ORD-1100,2025-05-18,Rahul Gupta,Hyderabad,Headphones,Accessories,8.0,2300.0,Priya Nair,Cash,18400,18400.0
+100,ORD-1101,2025-05-18,Divya Menon,Hyderabad,Wireless Mouse,Accessories,5.0,750.0,Vikram Singh,Net Banking,3750,3750.0
+101,ORD-1102,2025-05-20,Pooja Verma,Chennai,Notebook Pack,Stationery,12.0,450.0,Vikram Singh,Debit Card,5400,5400.0
+102,ORD-1103,2025-05-20,Tara Tech,Pune,Printer,Electronics,2.0,9500.0,Rohan Mehta,Cash,19000,19000.0
+103,ORD-1104,2025-05-22,Pooja Verma,Kolkata,Office Chair,Furniture,10.0,6800.0,Sneha Iyer,Debit Card,68000,68000.0
+104,ORD-1105,2025-05-23,Suresh Kumar,Pune,Laptop,Electronics,6.0,52000.0,Priya Nair,Cash,312000,312000.0
+105,ORD-1106,2025-05-24,Rahul Gupta,Pune,Office Chair,Furniture,5.0,6800.0,Rohan Mehta,Debit Card,34000,34000.0
+106,ORD-1107,2025-05-24,Harsh Patel,Delhi,Desk Lamp,Furniture,9.0,1200.0,Priya Nair,Upi,10800,10800.0
+107,ORD-1108,2025-05-26,Farhan Ali,Chennai,Office Chair,Furniture,9.0,6800.0,Priya Nair,Cash,61200,61200.0
+108,ORD-1109,2025-05-28,Pooja Verma,Pune,Notebook Pack,Stationery,1.0,450.0,Amit Sharma,Debit Card,450,450.0
+109,ORD-1110,2025-05-30,Anita Desai,Hyderabad,Office Chair,Furniture,4.0,6800.0,Rohan Mehta,Net Banking,27200,27200.0
+110,ORD-1111,2025-05-30,Suresh Kumar,Kolkata,Printer,Electronics,9.0,9500.0,Rohan Mehta,Cash,85500,85500.0
+111,ORD-1112,2025-05-31,Rahul Gupta,Hyderabad,Printer,Electronics,8.0,9500.0,Rohan Mehta,Debit Card,76000,76000.0
+112,ORD-1113,2025-06-01,Tara Tech,Delhi,Desk Lamp,Furniture,12.0,1200.0,Priya Nair,Debit Card,14400,14400.0
+113,ORD-1114,2025-06-04,Harsh Patel,Pune,Smartphone,Electronics,12.0,24000.0,Priya Nair,Credit Card,288000,288000.0
+114,ORD-1115,2025-06-04,Suresh Kumar,Bengaluru,Office Chair,Furniture,12.0,6800.0,Vikram Singh,Net Banking,81600,81600.0
+115,ORD-1116,2025-06-05,Zoya Retail,Pune,Desk Lamp,Furniture,4.0,1200.0,Rohan Mehta,Credit Card,4800,4800.0
+116,ORD-1117,2025-06-08,Neha Boutique,Bengaluru,Printer,Electronics,1.0,9500.0,Vikram Singh,Credit Card,9500,9500.0
+117,ORD-1118,2025-06-10,Kiran Stores,Delhi,Desk Lamp,Furniture,9.0,1200.0,Rohan Mehta,Credit Card,10800,10800.0
+118,ORD-1119,2025-06-10,Zoya Retail,Pune,Notebook Pack,Stationery,1.0,450.0,Vikram Singh,Debit Card,450,450.0
+119,ORD-1120,2025-06-12,Suresh Kumar,Chennai,Notebook Pack,Stationery,6.0,450.0,Priya Nair,Upi,2700,2700.0
+120,ORD-1121,2025-06-12,Suresh Kumar,Delhi,Desk Lamp,Furniture,2.0,1200.0,Sneha Iyer,Cash,2400,2400.0
+121,ORD-1122,2025-06-13,Isha Kapoor,Hyderabad,Smartphone,Electronics,11.0,24000.0,Amit Sharma,Credit Card,264000,264000.0
+122,ORD-1123,2025-06-13,Isha Kapoor,Bengaluru,Wireless Mouse,Accessories,2.0,750.0,Priya Nair,Upi,1500,1500.0
+123,ORD-1124,2025-06-14,Jatin Arora,Kolkata,Headphones,Accessories,10.0,2300.0,Priya Nair,Net Banking,23000,23000.0
+124,ORD-1125,2025-06-15,Pooja Verma,Chennai,Headphones,Accessories,5.0,2300.0,Vikram Singh,Cash,11500,11500.0
+125,ORD-1126,2025-06-16,Isha Kapoor,Kolkata,Desk Lamp,Furniture,1.0,1200.0,Vikram Singh,Upi,1200,1200.0
+126,ORD-1127,2025-06-17,Sunrise Offices,Bengaluru,Office Chair,Furniture,11.0,6800.0,Amit Sharma,Credit Card,74800,74800.0
+127,ORD-1128,2025-06-19,Neha Boutique,Kolkata,Office Chair,Furniture,2.0,6800.0,Priya Nair,Upi,13600,13600.0
+128,ORD-1129,2025-06-21,Pooja Verma,Hyderabad,Headphones,Accessories,10.0,2300.0,Sneha Iyer,Debit Card,23000,23000.0
+129,ORD-1130,2025-06-23,Tara Tech,Bengaluru,Laptop,Electronics,12.0,52000.0,Rohan Mehta,Cash,624000,624000.0
+130,ORD-1131,2025-06-24,Tara Tech,Bengaluru,Smartphone,Electronics,11.0,24000.0,Vikram Singh,Credit Card,264000,264000.0
+131,ORD-1132,2025-06-25,Zoya Retail,Kolkata,Headphones,Accessories,4.0,2300.0,Priya Nair,Debit Card,9200,9200.0
+132,ORD-1133,2025-06-26,Meera Enterprises,Delhi,Wireless Mouse,Accessories,3.0,750.0,Rohan Mehta,Net Banking,2250,2250.0
+133,ORD-1134,2025-06-28,Pooja Verma,Delhi,Desk Lamp,Furniture,8.0,1200.0,Rohan Mehta,Cash,9600,9600.0
+134,ORD-1135,2025-06-29,Divya Menon,Kolkata,Desk Lamp,Furniture,8.0,1200.0,Sneha Iyer,Upi,9600,9600.0
+135,ORD-1136,2025-06-29,Farhan Ali,Hyderabad,Laptop,Electronics,6.0,52000.0,Vikram Singh,Debit Card,312000,312000.0
+136,ORD-1137,2025-06-30,Meera Enterprises,Mumbai,Laptop,Electronics,11.0,52000.0,Vikram Singh,Net Banking,572000,572000.0
